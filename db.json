@@ -1,87 +1,12 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "Hello World",
-      "body": "Quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-    },
-    {
-      "id": 2,
-      "title": "Eum Et Est Occaecati",
-      "body": "Recusandae consequuntur expedita et cum\nreprehenderit ut quas totam\nautem sunt rem eveniet architecto"
-    },
-    {
-      "id": 3,
-      "title": "Eum Et Est Occaecati",
-      "body": "Recusandae consequuntur expedita et cum\nreprehenderit ut quas totam\nautem sunt rem eveniet architecto"
-    },
-    {
-      "id": 4,
-      "title": "React",
-      "body": "Learn Hooks"
-    }
+   
   ],
   "tasks": [
-    {
-      "id": 1,
-      "title": "new",
-      "status": false
-    },
-    {
-      "id": 2,
-      "title": "new todo",
-      "status": false
-    }
+  
   ],
   "users": [
-    {
-      "id": 1,
-      "name": "albert",
-      "age": 25,
-      "rating": 3.2
-    },
-    {
-      "id": 2,
-      "name": "aman",
-      "age": 21,
-      "rating": 3.6
-    },
-    {
-      "id": 3,
-      "name": "ankur",
-      "age": 28,
-      "rating": 4.1
-    },
-    {
-      "id": 4,
-      "name": "nrupul",
-      "age": 24,
-      "rating": 4
-    },
-    {
-      "id": 5,
-      "name": "sandhya",
-      "age": 22,
-      "rating": 5
-    },
-    {
-      "id": 6,
-      "name": "santosh",
-      "age": 20,
-      "rating": 4.5
-    },
-    {
-      "id": 7,
-      "name": "vetri",
-      "age": 19,
-      "rating": 4.2
-    },
-    {
-      "id": 8,
-      "name": "santhi",
-      "age": 20,
-      "rating": 5
-    }
+   
   ],
   "cities": [
     {
